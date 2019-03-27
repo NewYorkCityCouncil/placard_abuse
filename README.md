@@ -1,1 +1,11 @@
-# permit_parking_violations
+# Placard Abuse
+
+## Objective
+
+Analyze 311 service requests regarding placard abuse, both in regards to complaints over time and location of complaints
+
+## Notes
+
+Prior to March 24, 2017, placard abuse complaints were filed under the Complaint type "City Vehicle Placard Complaint." After this date, complaints were re-classified under the Complaint type "Illegal Parking," and the Descriptor of "Parking Permit Improper Use"
+
+Running this code will generate a line chart demonstrating frequency of calls over time, as well as a map of where these complaints took place.
