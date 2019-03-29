@@ -1,12 +1,12 @@
 ID,Resolution.Description,Resolution
-1,the police department responded to the complaint and took action to fix the condition.,Fixed
-2,the police department responded and upon arrival those responsible for the condition were gone.,No Action
-3,the police department responded to the complaint and determined that police action was not necessary.,No Action
-4,the police department responded to the complaint and with the information available observed no evidence of the violation at that time.,No Action
-5,the police department responded to the complaint but officers were unable to gain entry into the premises.,No Action
-6,the police department reviewed your complaint and provided additional information below.,No Action
-7,this complaint does not fall under the police department's jurisdiction.,No Action
-8,your request can not be processed at this time because of insufficient contact information. please create a new service request on nyc.gov and provide more detailed contact information.,No Action
-9,the police department responded to the complaint and a report was prepared.,Report
-10,the police department issued a summons in response to the complaint.,Ticket/summons
-11,the police department made an arrest in response to the complaint.,Arrest
+1,The police department responded to the complaint and took action to fix the condition.,Fixed
+2,The police department responded and upon arrival those responsible for the condition were gone.,No Action
+3,The police department responded to the complaint and determined that police action was not necessary.,No Action
+4,The police department responded to the complaint and with the information available observed no evidence of the violation at that time.,No Action
+5,The police department responded to the complaint but officers were unable to gain entry into the premises.,No Action
+6,The police department reviewed your complaint and provided additional information below.,No Action
+7,The complaint does not fall under the police department's jurisdiction.,No Action
+8,Your request can not be processed at this time because of insufficient contact information. please create a new service request on nyc.gov and provide more detailed contact information.,No Action
+9,The police department responded to the complaint and a report was prepared.,Report
+10,The police department issued a summons in response to the complaint.,Ticket/summons
+11,The police department made an arrest in response to the complaint.,Arrest
